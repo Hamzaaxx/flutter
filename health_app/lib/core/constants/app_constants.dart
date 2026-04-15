@@ -57,10 +57,4 @@ class AppConstants {
   // Water amounts
   static const List<int> waterAmounts = [100, 200, 250, 350, 500, 750];
 
-  // Animation assets
-  static const String bunnySleepAnim = 'assets/animations/bunny_sleep.json';
-  static const String bunnyActiveAnim = 'assets/animations/bunny_active.json';
-  static const String bunnyHappyAnim = 'assets/animations/bunny_happy.json';
-  static const String loadingAnim = 'assets/animations/loading.json';
-  static const String successAnim = 'assets/animations/success.json';
 }
